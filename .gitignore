@@ -1,0 +1,25 @@
+# Pastas de Dados
+Dados/
+Dados_Anomalias_Futuros/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache e Jupyter checkpoints
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.ipynb_checkpoints
+
+# Imagens geradas localmente (opcional, se quiser mantê-las fora)
+# *.png
+# *.jpg
+
+# Arquivos de log e temporários
+.DS_Store
+*.log
