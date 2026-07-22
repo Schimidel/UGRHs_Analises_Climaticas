@@ -55,5 +55,4 @@ pip install -r requirements.txt
 ### 2. Dados de Entrada
 Os notebooks dependem de arquivos climáticos contidos na pasta `./Dados/` (por exemplo, arquivos `.nc` contendo os históricos e projeções de modelos como CCSM4, GPCC, NOAA, etc.).
 
-[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21497632.svg)](https://doi.org/10.5281/zenodo.21497632)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21497632.svg)](https://doi.org/10.5281/zenodo.21497632)
